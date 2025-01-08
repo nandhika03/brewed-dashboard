@@ -10,6 +10,7 @@ To create a dashboard with timelines and slicers to display descriptive statisti
 
 ## DataSet Used:
 The project uses a dataset detailing coffee sales metrics across multiple dimensions such as customers, loyalty cards, size, country, and roast type.
+You can download the dataset here: coffeeOrdersData.xlsx
 
 
 ---
